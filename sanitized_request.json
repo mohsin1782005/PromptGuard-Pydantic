@@ -1,0 +1,14 @@
+{
+    "user": {
+        "user_id": 101,
+        "tier": "premium"
+    },
+    "prompt": "Analyze the sales data for the last quarter using Python.",
+    "model_name": "gemini-1.5-pro",
+    "temperature": 0.7,
+    "is_private": false,
+    "cloud_storage_path": null,
+    "tags": [],
+    "complexity": "Low",
+    "complexity_score": "Low"
+}
